@@ -1,7 +1,7 @@
-a,b,c=input().split()
-num1=int(a)
+c,b,a=input().split()
+num1=int(c)
 num2=int(b)
-num3=int(c)
+num3=int(a)
 if(num1>num2):
   if(num1>num3):
     print(num1)
