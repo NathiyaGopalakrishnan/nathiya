@@ -1,3 +1,3 @@
-B=int(input()) 
-A="Hello\n"*B
-print(str(B))
+N=int(input()) 
+s=("Hello\n")*N
+print(str(s))
